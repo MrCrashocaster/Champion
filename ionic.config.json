@@ -1,0 +1,7 @@
+{
+  "name": "CHAMPION",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
