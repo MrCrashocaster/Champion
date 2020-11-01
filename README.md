@@ -1,3 +1,1 @@
-# chat-app 
-
-Developed by Impaird, LLC
+# Developed by Impaird, LLC
